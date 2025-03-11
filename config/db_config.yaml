@@ -1,0 +1,6 @@
+postgres:
+  host: "localhost"
+  database: "banking_db"
+  user: "postgres"
+  password: "Huyhoang1!"
+  port: 5432
